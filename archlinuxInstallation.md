@@ -18,6 +18,19 @@ mkfs.ext4 /dev/sda2
 
 ping google.com
 
+`To connect to wifi`
+```shell
+  iwctl -> gets into the wifi iterface
+  help -> to see available commands
+  device list -> to see the available devices
+  station <device> scan
+  station <device> get-networks -> gets all the networks
+  (Connect on your prefered network)
+  station <device> connect <name>  -> then input password
+  station <device> show -> to see if you are connected
+  exit
+```
+
 pacman -Syy
 
 pacman -S reflector
