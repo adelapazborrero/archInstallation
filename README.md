@@ -174,6 +174,14 @@ You can check if you have internet connection by pining any ip address.
 - `systemctl enable sddm` _to enable sddm_
 </details>
 
+<details>
+  <summary>
+    <strong>Installing Xfce (optional)</strong>
+  </summary>
+
+- `pacman -S xfce4 xfce4-goodies` _to install xfce_
+</details>
+
 <h3 style="color:#1793d1">👋 Exit and reboot:</h3>
 
 <details>
