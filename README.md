@@ -194,4 +194,31 @@ You can check if you have internet connection by pining any ip address.
 - `reboot` _to reboot_
 </details>
 
+<details> 
+  <summary>
+    <strong>[ Extra ] If dual boot with another linux distro</strong>
+  </summary>
+
+> Example stepts to install arch linux along an existing Ubuntu:
+
+1. Burn the image onto a pendrive
+
+2. Format your partition beforehand using GParted or similar partitioning tool (You only require one ext4 partition)
+
+3. Remember the partition name (/dev/sdX) for your new partition and your swap
+
+4. Boot onto Arch Linux, you get a terminal. Follow the steps in the wiki to set up your network etc.
+
+5. Skip partitioning, jump to mounting
+
+6. Again continue following the steps till grub config. Don't perform and grub config (as you already have grub with Ubuntu)
+
+7. Just boot into Ubuntu and run $sudo update-grub
+
+8. Reboot and boot into Arch
+
+9. Install Xorg, graphic drivers and a Desktop Environment
+
+</details>
+
 ### Enjoy Arch Linux BTW!
