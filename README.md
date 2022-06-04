@@ -2,7 +2,7 @@
 
 <h1 style="color:#1793d1">Arch linux installation guide</h1>
 
-<h3 style="color:#1793d1">Initial setup:</h3>
+<h3 style="color:#1793d1">📋 Initial setup:</h3>
 
 <details>
   <summary>
@@ -36,7 +36,7 @@ You can check if you have internet connection by pining any ip address.
 
 </details>
 
-<h3 style="color:#1793d1">Filesystem setup:</h3>
+<h3 style="color:#1793d1">️🗄️️ Filesystem setup:</h3>
 
 <details>
   <summary>
@@ -87,9 +87,7 @@ You can check if you have internet connection by pining any ip address.
 
 </details>
 
-### Installation and configuration
-
-<h3 style="color:#1793d1">Installing and config</h3>
+<h3 style="color:#1793d1">💿 Installing and config</h3>
 
 <details>
   <summary>
@@ -156,7 +154,7 @@ You can check if you have internet connection by pining any ip address.
 - `systemctl enable NetworkManager` _to enable networkmanager_
 </details>
 
-<h3 style="color:#1793d1">Desktop environment</h3>
+<h3 style="color:#1793d1">🖥️ Desktop environment</h3>
 
 <details>
   <summary>
@@ -176,7 +174,7 @@ You can check if you have internet connection by pining any ip address.
 - `systemctl enable sddm` _to enable sddm_
 </details>
 
-<h3 style="color:#1793d1">Exit and reboot:</h3>
+<h3 style="color:#1793d1">👋 Exit and reboot:</h3>
 
 <details>
   <summary>
