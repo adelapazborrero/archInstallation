@@ -1,6 +1,6 @@
 ![Arch linux](logo.png)
 
-<h1 style="color:#1793d1">Arch linux installation guide</h1>
+<h1 style="color:#1793d1">Arch linux installation guide (UEFI)</h1>
 
 <h3 style="color:#1793d1">📋 Initial setup:</h3>
 
