@@ -200,6 +200,7 @@ You can check if you have internet connection by pining any ip address.
   </summary>
 
 > Example stepts to install arch linux along an existing Ubuntu:
+[Tutorial](https://www.linuxandubuntu.com/home/dual-boot-ubuntu-and-arch-linux#:~:text=%E2%80%8BInstall%20Ubuntu%2016.10&text=Alternatively%2C%20you%20could%20use%20etcher,till%20it%20completes%20and%20Voila!)
 
 1. Burn the image onto a pendrive
 
