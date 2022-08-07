@@ -34,6 +34,11 @@ You can check if you have internet connection by pining any ip address.
 - `exit`
 - `ping archlinux.org` _to check if you are connected_
 
+- These ones helped when wifi does not work
+  - `rfkill unblock wifi` _See if wifi is being blocked_
+  - `ip link setup wlan0 up` _Wlan0 being the wifi interface_
+  - `systemctl enable --now dhclient@wlan0.service` _Enable a dhclient for the interface_
+
 </details>
 
 <h3 style="color:#1793d1">️🗄️️ Filesystem setup:</h3>
